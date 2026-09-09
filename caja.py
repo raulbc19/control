@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("Control de Caja - Fondo Común")
+st.title("Control de Caja - Tesorería JMM")
 
 # --- 1. CONFIGURACIÓN DE LA BASE DE DATOS ---
 # Leemos las claves secretas que configuramos en Streamlit
